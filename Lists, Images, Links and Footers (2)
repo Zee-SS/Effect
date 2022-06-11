@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <nav>
+      <a href="https://discord.com">Home</a>
+    </nav>
+    <main>
+      <section>
+        <div>
+        <h1>To do list</h1>
+        <p>Lets get this stuff done</p>
+        <img
+          src="data:image/png;base64,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"/>
+        </div>
+        <img src="../Images/download (1).png"/>
+        <li>Example</li>
+          <li>Example</li>
+          <li>Example</li>
+        </ul>
+      </section>
+      <section>
+        <h1>To-do</h1>
+        <ol>
+          <li>Go on a walk</li>
+          <li>Feed the dog</li>
+          <li>Clean the house</li>
+        </ol>
+      </section>
+    </main>
+    <footer>copyright terms and conditions</footer>
+  </body>
+</html>
