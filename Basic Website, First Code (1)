@@ -1,0 +1,26 @@
+<html lang="en">
+  <head><!DOCTYPE html>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div>
+      <h1>
+        <i>Effect</i>
+      </h1>
+      <h3>2022</h3>
+
+      <p>
+        Hi this is my first <i>code</i> Lorem ipsum dolor sit amet consectetur
+        adipisicing elit. Inventore dicta, nihil quidem maxime perferendis quis
+        temporibus. Voluptate ipsa dolores, ea tenetur nisi illum veritatis vel,
+        dolorum dolorem eaque saepe inventore!
+      </p>
+
+      <button>Discord Website</button>
+      <a href="https://discord.com" target="_blank">LINK</a>
+    </div>
+  </html>
+</body>
